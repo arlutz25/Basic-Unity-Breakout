@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\tvStudio\HelpScreen.cs">
+    <Files>
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\tvStudio\HelpScreen.cs" Line="354" Column="5" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\droids\Hammie.cs" Line="5" Column="24" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\droids\AI.cs" Line="570" Column="47" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\GameUI.cs" Line="1335" Column="1" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\buildings\Rust.cs" Line="294" Column="1" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\SaveLoad.cs" Line="1" Column="1" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\OptionsMenu.cs" Line="265" Column="5" />
+      <File FileName="..\..\Oointah\iLikeMoney\iLikeMoney\Assets\scripts\terrain.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
